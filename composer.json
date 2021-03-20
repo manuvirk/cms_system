@@ -1,0 +1,12 @@
+{
+    "name": "manu/cms",
+    "authors": [
+        {
+            "name": "manpreet",
+            "email": "manpreetdhillon06@gmail.com"
+        }
+    ],
+    "require": {
+        "pusher/pusher-php-server": "^4.1"
+    }
+}
